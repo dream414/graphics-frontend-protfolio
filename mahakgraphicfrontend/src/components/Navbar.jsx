@@ -28,7 +28,7 @@ function Navbar() {
         <ul className="hidden md:flex gap-8 text-sm font-medium text-sky-100 items-center">
           <li><a href="#home" className="hover:text-cyan-300">Home</a></li>
           <li><a href="#about" className="hover:text-cyan-300">About</a></li>
-          <li><a href="#services" className="hover:text-cyan-300">Services</a></li>
+          <li><a href="#services" className="hover:text-cyan-300">Service</a></li>
           <li><a href="#portfolio" className="hover:text-cyan-300">Portfolio</a></li>
           <li><a href="#templates" className="hover:text-cyan-300">Templates</a></li>
           <li><a href="#test" className="hover:text-cyan-300">Testimonials</a></li>
